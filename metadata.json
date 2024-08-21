@@ -1,0 +1,23 @@
+{
+  "id_": "AC03E132B",
+  "segments_metadata": {
+    "I1D989433": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "63a0",
+      "layer": "Root_Segment-8b4.json"
+    },
+    "I7A4F1B89": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "1ebc",
+      "layer": "Commentary-eeb.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "https://github.com/Esukhia/chojuk-alignement/tree/master/Thubcho-final"
+  }
+}
